@@ -1,0 +1,147 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Marim Abdel Kader - Portfolio </title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<h1><strong>Hi! 
+						<br> Welcome to my portfolio :) </strong> </h1>
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- One -->
+					<section id="one">
+						<header class="major">
+							<h2>Marim Abdel Kader</h2>
+						</header>
+		          <p>  
+							I recently graduted from the University of Toronto in June 2022. I majored in Geographical Information Systems and did a double minor in 
+							enviornmental managment and sustainbility. I have two years of experince with Python and currently working on strenghing my SQL knowledge!
+							I enjoy working with data and turning it into beautiful visualized maps. I have three years of experince with tools such as ArcGIS, ArcGIS Pro, ArcMap, QGIS, and GRASS GIS. Bellow you will 
+							find projects I've done as an undergrade that helped shape my skills and grow as a developer and data analyist. In my free time, I like to work on grahic design projects and drawing on procreate.
+						</p>
+						<ul class="actions">
+							<li><a href="https://www.linkedin.com/in/marim-abdelkader/" class="button">LinkedIn</a></li>
+					
+						</ul>
+					</section>
+
+				<!-- Two -->
+					<section id="two">
+						<h2>Recent GIS Work </h2> <br>
+
+						<div class="row">
+							<article class="col-6 col-12-xsmall work-item">
+								<img src="images/thumbs/tomato-plant.jpg" alt="" width="350" height="190" />
+								
+								<a href="https://storymaps.arcgis.com/stories/d3b8e006fe54465a8fa5c0737d4e9e6c" <h3>Transforming Underused Lots into Commuinty Gardens</h3></a>
+
+								<p>A project under the supervision of the City of Mississuga to help find solutions for food shortage in Mississuga. 
+									
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<img src="images/thumbs/indig.jpg" alt="" width="350" height="190"/></a>
+								<a href="https://storymaps.arcgis.com/stories/e35873f16ec841738e8da8bbac90d18f"  <h3>Safer Space</h3> </a>
+
+								<p>As a student associate for the Esri Canada GIS Centres of Excellence program, the goal of this project was to bring awareness to the risks indigenous communities face against the rise of climate change. </p>
+							</article>
+							<article class="col-6 col-12-xsmall work-item">
+								<img src="images/thumbs/forest.jpg" alt="" width="350" height="190"/></a>
+								<a href= "https://github.com/MarimAK/Predicting-and-preventing-future-forest-fires./blob/main/FinalReport.pdf" <h3>Predicting and Preventing Future Forest Fires</h3> </a>
+								<p> An independent project where I used QGIS, Landsat 8 and Sentinel satellite imagery, to research past wildfires that occurred in British 
+                                   Columbia in order to come to reasonable conclusions that can help predict future forest fires based on past wildfires patterns. 
+								</p>
+
+							</article>
+							<article class="col-6 col-12-xsmall work-item">   
+								<img src="images/thumbs/bees.jpg" alt="" width="350" height="190"/></a>
+								<a href= "https://github.com/MarimAK/Experimental-Pollinator-Plot/blob/main/Experimental%20Polinator%20Plot%20Project.pdf" <h3>Experimental Pollinator Plot </h3> </a> 
+								<p>A project that focused on providing Creative Hub1352 and The Toronto and Region Conservation Authority a research report that shows the different types of Pollinator Plot practices that can be implemented in Mississauga with respect to its changing climate and enviornment. </p>
+							</article>
+							
+						</div>
+						
+					</section>
+
+				<!-- Three -->
+					<section id="three">
+						<h2>Get In Touch</h2>
+Can't reach me? Leave me a message and I'll get back to you as soon as I can.
+
+						<div class="row">
+							<div class="col-8 col-12-small">
+								<form method="post" action="#">
+									<div class="row gtr-uniform gtr-50">
+										<div class="col-6 col-12-xsmall"><input type="text" name="name" id="name" placeholder="Name" /></div>
+										<div class="col-6 col-12-xsmall"><input type="email" name="email" id="email" placeholder="Email" /></div>
+										<div class="col-12"><textarea name="message" id="message" placeholder="Message" rows="4"></textarea></div>
+									</div>
+								</form>
+								<ul class="actions">
+									<li><input type="submit" value="Send Message" /></li>
+								</ul>
+							</div>
+							<div class="col-4 col-12-small">
+								<ul class="labeled-icons">
+									<li>
+										<comment>
+
+										
+									</li>
+									<li>
+										<h3 class="icon solid fa-mobile-alt"><span class="label">Phone</span></h3>
+										437-770-3367
+									</li>
+									<li>
+										<h3 class="icon solid fa-envelope"><span class="label">Email</span></h3>
+										<a href="#">marim.abdelkader@mail.utoronto.ca</a>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</section>
+
+				
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<ul class="icons">
+					
+						<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						
+						<li><a href="#" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+					<ul class="copyright">
+						<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
